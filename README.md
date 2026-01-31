@@ -15,7 +15,7 @@ An intelligent, **local-first recruitment system** powered by CrewAI agents and 
 ### **Core Capabilities**
 - **📄 Single Resume Analysis**: Upload a resume and get brutally honest scoring against a job description
 - **💬 Adaptive HR Chat**: Ask follow-up questions with context-aware responses that stay consistent with analysis scores
-- **🏆 Batch Candidate Ranking**: Compare 2-5 candidates side-by-side and get ranked recommendations
+- **🏆 Batch Candidate Ranking**: Compare multiple candidates side-by-side and get ranked recommendations
 - **🤖 Multi-Agent Intelligence**: Three specialized CrewAI agents that work together:
   - **JD Matcher Agent**: Analyzes resume against JD with strict, no-sugar-coating compatibility scores
   - **Insight Generator Agent**: Generates recommendations that MUST logically align with the match score
@@ -93,7 +93,7 @@ python Proj.ipynb  # Or launch from Jupyter/VS Code
 
 **Output**: Contextually accurate HR guidance based on candidate's profile
 
-### **Workflow 3: Batch Ranking (2-5 Candidates)**
+### **Workflow 3: Batch Ranking**
 1. Upload **2-5 resume files** simultaneously
 2. Paste the **same job description** for all candidates
 3. Click **"🏆 Rank Candidates"**
@@ -309,3 +309,4 @@ Ensures recommendations logically match scores:
 
 
 ---
+
