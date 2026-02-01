@@ -1,4 +1,4 @@
-# 🤖 Agentic Recruitment Engine
+# 🤖 RESUMEVANCE: Agentic Recruitment-Engine
 
 An intelligent, **local-first recruitment system** powered by CrewAI agents and Ollama LLMs. Adaptively analyzes resumes against job descriptions with brutally honest assessments, ranks candidates intelligently, and provides context-aware HR insights. Designed for recruiters who demand transparency over sugar-coating.
 
@@ -309,4 +309,5 @@ Ensures recommendations logically match scores:
 
 
 ---
+
 
